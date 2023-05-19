@@ -1,0 +1,31 @@
+.green{
+    color:blue;
+    background-color: rgba(200, 255, 0, 0.952);
+}
+ 
+.nav__list{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+list-style: none;
+}
+
+.nav__item{
+margin-right: 12px;
+}
+
+.nav__link{
+    text-decoration: none;
+    font-size: 20px;
+    color:rgb(255, 153, 0);
+}
+
+.nav__link:hover, .nav__link:focus{
+    color:aqua;
+}
+
+.bluy{
+    color:rgb(1, 18, 255);
+    background-color:aliceblue;
+
+}
